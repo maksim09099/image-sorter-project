@@ -1,5 +1,6 @@
 pip install pytest потом pytest test_model.py -v test_model.py
-можешь обьяснить каждую строку кода чтобы я потом вставил в отчет import os,importlib,pytest,numpy as np,tensorflow as tf
+можешь обьяснить каждую строку кода чтобы я потом вставил в отчет 
+import os,importlib,pytest,numpy as np,tensorflow as tf
 from pathlib import Path
 for m in ('module_a','main'):
     try:
